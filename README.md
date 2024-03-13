@@ -10,4 +10,3 @@
 | 5_all_year | 5번 데이터셋 작업 - all year 버전 |
 | 5_by_year | 5번 데이터셋 작업 - by year 버전 |
 | 5_check | 5번 데이터셋 작업 검증용 코드 |
-| check | 결과물 검증용 코드 |
