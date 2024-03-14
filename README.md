@@ -102,7 +102,7 @@
 
 ***weight 계산 예시**
 
-<img src="https://github.com/ha6oon/WOS/assets/73981013/e7b2ad28-f04a-492f-afda-4a83bd2601ee.png" width="400" height="200"/>
+<img src="https://github.com/ha6oon/WOS/assets/73981013/e7b2ad28-f04a-492f-afda-4a83bd2601ee.png" width="600" height="300"/>
 
 ## 코드를 위한 정보
 
