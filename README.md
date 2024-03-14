@@ -101,8 +101,7 @@
 |  | norm_weight_cate |  |  | *아래에 따로 설명 |  |
 
 ***weight 계산 예시**
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/95ce033c-4670-40e9-9267-84bac0a071bf/1323da05-c981-4a40-b1ca-40cf05315aaa/Untitled.png)
+![Untitled](https://github.com/ha6oon/WOS/assets/73981013/e7b2ad28-f04a-492f-afda-4a83bd2601ee)
 
 ## 코드를 위한 정보
 
