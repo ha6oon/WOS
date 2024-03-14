@@ -39,7 +39,7 @@
             - 5_ref_by_year : cluster_cate_weight_reflevel_by_year_frame.txt
             - 5_ref_allyear_wide : cluster_cate_weight_reflevel_allyear_frame_wide.txt
             - 5_ref_by_year_wide : cluster_cate_weight_reflevel_by_year_frame_wide
-- 데이터셋 별 부가 설명
+:bulb: 데이터셋 별 부가 설명
     
     
     | 데이터셋 명 | 추가 설명 |
@@ -50,7 +50,8 @@
     | 4 | 라이덴 클러스터 uid - refs_uid 링크에서 WOS Category를 붙이고, uid - refs_uid - category로 이어지는 각 링크의 weight를 계산한겁니다. 이 데이터로 WOS Category Embedding을 작업하였습니다.  |
     | 5_pub | publication level의 임베딩. 이전의 작업 방식으로, 클러스터 개별 문헌에 부여된 WOS Category 정보를 Cluster 단위로 aggregate 하는 겁니다. 전체년도와 연도별 파일이 따로 있습니다. 또한 long type 버전(cluster - category pair 리스트 형태)과 wide type 버전(클러스터 당 254개 category 칼럼이 존재하는 형태) 2가지 버전 다 만들어 두었습니다. |
     | 5_ref | reference level의 임베딩. 레퍼런스 수준에서 임베딩을 하는 방식입니다. 역시 전체년도와 연도별 파일이 따로 있으며, long type 버전, wide type 버전 2가지 버전 다 만들어 두었습니다.  |
-- 데이터셋 별 컬럼 상세 설명
+  
+:bulb: 데이터셋 별 컬럼 상세 설명
     - 노란색 : DB로부터 추출, 파란색 : P로부터 추출, 빨간색 : 새로 생성한 컬럼
     - 중복되는 내용은 패스함.
     
